@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Controller App</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="set_blue_background">Set Blue Background</string>
+    <string name="set_green_background">Set Green Background</string>
+    <string name="set_red_background">Set Red Background</string>
+    <string name="select_cells_to_show">Select Cells to Show</string>
+    <string name="send_to_display_app">Send to Display App</string>
+    <string name="select_the_color">select the color</string>
+    <string name="select_layout_orientation">select layout orientation</string>
+</resources>
